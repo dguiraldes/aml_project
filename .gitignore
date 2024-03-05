@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local development settings
+.env
+.llama-env
+config.ini
+
+*.shp
+
+# IDE files
+.vscode/
+.idea/
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+*.egg
+
+# Compiled Python modules
+*.pyc
+
+# Logs and databases
+*.log
+*.sqlite3
+
+# Don't include data
+raw_data/
+processed_data/
+
+.DS_Store
+
+# don't include files
+*.csv
+*.xls
+*.xlsx
+*.twb
