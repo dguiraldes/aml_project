@@ -6,6 +6,8 @@ __pycache__/
 # Local development settings
 .env
 
+lag-llama/
+
 *.shp
 
 # IDE files
